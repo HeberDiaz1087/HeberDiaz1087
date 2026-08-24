@@ -14,13 +14,13 @@ Además, cuento con el título de **Técnico Electromecánico**, formación que 
 
 Dentro de la carrera de Ingeniería Informática continúo desarrollando conocimientos en áreas como:
 
-* 💻 Programación
+* 💻 Programación Concurrente
 * ☕ Java
 * 🐧 Linux
 * 🌐 Git y GitHub
-* 🗃️ Bases de Datos
-* 🧩 Programación Orientada a Objetos
-* ⚙️ Programación Concurrente
+* 🗃️ Bases de Datos 1
+* 🧩 Sistemas Operativos 2
+* ⚙️ Teoria de Automatas
 
 ## ❤️ Mis intereses
 
